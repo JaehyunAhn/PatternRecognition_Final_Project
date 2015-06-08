@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Subjects SYSTEM "http://hbase.humanid.org/hbase/dtd/subject.dtd">
+<Subjects>
+<Subject id="cfrS00502">
+  <Gender value="Male" source="Retrospectively"/>
+  <YOB value="1944" source="Retrospectively"/>
+  <Race value="White" source="Retrospectively"/>
+</Subject>
+</Subjects>

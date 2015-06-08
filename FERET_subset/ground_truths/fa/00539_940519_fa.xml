@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Recordings SYSTEM "http://hbase.humanid.org/hbase/dtd/recording.dtd">
+<Recordings>
+<Recording id="cfrR04537">
+  <URL root="Disc1" relative="data/images/00539/00539_940519_fa.ppm.bz2"/>
+  <CaptureDate>05/19/1994</CaptureDate>
+  <CaptureTime>00:00:00</CaptureTime>
+  <Format value="ppm" scanning="Progressive" compression="bzip2"/>
+  <Subject id="cfrS00539">
+   <Application>
+    <Face>
+     <Pose name="fa" yaw="0" pitch="0" roll="0"/>
+     <Wearing glasses="No"/>
+     <Hair beard="No" mustache="No" source="Retrospectively"/>
+     <Expression name="fa"/>
+     <LeftEye x="336" y="384"/>
+     <RightEye x="204" y="366"/>
+     <Nose x="270" y="440"/>
+     <Mouth x="250" y="516"/>
+    </Face>
+   </Application>
+   <Stage id="cfrT00001"/>
+  </Subject>
+  <Collection id="cfrC00001"/>
+  <Environment id="cfrE00001"/>
+  <Sensor id="cfrN00002"/>
+  <Illuminant id="cfrI00001"/>
+  <Illuminant id="cfrI00002"/>
+  <Illuminant id="cfrI00003"/>
+  <Weather condition="Inside"/>
+ </Recording>
+</Recordings>
